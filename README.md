@@ -18,4 +18,9 @@
   
   
   ## Preview of my analysis:
+  Total trips for each month & each weekdays.
   ![bar](https://user-images.githubusercontent.com/117715150/204270141-62b6b60c-6742-4476-9e05-d2ed24da3fc3.png)
+  
+  
+  Hourly Rush in New york city on all days.
+  ![line](https://user-images.githubusercontent.com/117715150/204270489-83ecaa63-4c8a-473f-a9ed-904e8477106b.png)
