@@ -1,20 +1,20 @@
 # uber_data
   
   ## Imports
-    *Pandas
-    *Numpy
-    *Seaborn
-    *matplotlib.pyplot
+    * Pandas
+    * Numpy
+    * Seaborn
+    * matplotlib.pyplot
     
   ##Cleaning the data :
     * By removing the duplicates.
     * By removing the null values.
   
   ## To Find:
-    *Which month have maximum Uber pickups in New York City.
-    *Total trips for each month & each weekdays.
-    *Hourly Rush in New york city on all days.
-    *Rush on Hour and Weekday ( Perform Pair wise Analysis )
+    * Which month have maximum Uber pickups in New York City.
+    * Total trips for each month & each weekdays.
+    * Hourly Rush in New york city on all days.
+    * Rush on Hour and Weekday ( Perform Pair wise Analysis )
   
   
   ## Preview of my analysis:
@@ -33,7 +33,7 @@
   
   
 
-  ##CONCLUSION
+  ## CONCLUSION
   
-    *July has the most number of trips.
+    * July has the most number of trips.
     * It's interesting to see that Saturday and Sunday exhibit similar demand throughout the late night/morning/afternoon, but it exhibits opposite trends during the evening. In the evening, Saturday pickups continue to increase throughout the evening, but Sunday pickups takes a downward turn after evening.We can see that there the weekdays that has the most demand during the late evening is Friday and Saturday, which is expected, but what strikes me is that Thursday nights also exhibits very similar trends as Friday and Saturday nights.
