@@ -6,7 +6,7 @@
     * Seaborn
     * matplotlib.pyplot
     
-  ##Cleaning the data :
+  ## Cleaning the data :
     * By removing the duplicates.
     * By removing the null values.
   
